@@ -349,8 +349,8 @@ window.onclick = function(event) {
 
                         <p>3481 Melrose Place
                             <br>Beverly Hills, CA 90210</p>
-                             <p><b>Email:-</b>gursimran81@gmail.com, djhack96@gmail.com
-                            <br><b>Phone:-</b>+91-9781055155, 9478925795</p>
+                             <p><b>Email:-</b>prynka.b01@gmail.com, djhack96@gmail.com
+                            <br><b>Phone:-</b>+91-9781055185, 9476925795</p>
 
                     </div>
                     <div class="footer-col col-md-4">
