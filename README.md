@@ -1,4 +1,3 @@
-# Advertisement_Server
 This is an advertisement server made in PHP programming Language.
 
 
